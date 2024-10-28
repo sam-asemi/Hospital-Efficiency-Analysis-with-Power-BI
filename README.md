@@ -1,4 +1,4 @@
-Hospital Efficiency Analysis with Power BI
+# Hospital Efficiency Analysis with Power BI
 
 This Power BI case study focuses on uncovering opportunities to improve hospital efficiency for HealthStat, a fictitious consulting firm. The analysis is based on a year’s worth of New York state-wide hospital discharge data, specifically for elective hip replacement surgeries. The goal is to leverage Power BI to create a dashboard that provides actionable insights into hospital operations, focusing on factors impacting length of stay (LOS) and associated costs.
 
